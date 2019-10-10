@@ -8,7 +8,6 @@ namespace FightsimV1
 {
     class Fighter
     {
-
         private int hp = 100;
         public string name;
 
